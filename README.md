@@ -1,10 +1,12 @@
 # Hi, I'm Adolfo Orozco 👋
 
-**Senior Solutions Architect at [Elastic](https://github.com/elastic)**, based in Mexico City.
+**Senior Solutions Architect at [Elastic](https://github.com/elastic)** since February 2026, based in Mexico City.
 
 I build demos, proofs of concept and documented architectures around search, data and the cloud.
 
 🇲🇽 *Hola, soy Adolfo: arquitecto de soluciones en Elastic. Preventa técnica, ingeniería de datos y arquitectura en la nube.*
+
+**Background:** Snowflake (Senior Partner Solutions Engineer), Datadog (Enterprise Sales Engineer), Google Cloud (Data Engineer, Cloud Program Manager, Infrastructure Cloud Consultant), Verizon (Sales Engineer), and Axway (Presales/Solutions Architect).
 
 ## What I work on
 
@@ -37,16 +39,16 @@ I build demos, proofs of concept and documented architectures around search, dat
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-<!-- [PENDIENTE] Agregar estas tres solo cuando apm-poc-design y aws-vpn-hub ya sean públicos (hoy solo están en repos privados):
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white)
--->
+## Certifications
 
-<!-- [PENDIENTE] Certificaciones: bigfito.cloud lista Google Cloud Digital Leader, Associate Cloud Engineer, Professional Cloud Architect y Professional Cloud Developer. Agregarlas solo si siguen vigentes, con enlace a Credly o a la credencial. -->
+SnowPro Core, Data & Information Governance, and Google Cloud certifications: Cloud Digital Leader, Associate Cloud Engineer, Professional Cloud Architect, and Professional Cloud Developer.
+
+## Languages
+
+English, Spanish, French, and Portuguese.
 
 ## Let's connect
 
 - 💼 LinkedIn: [linkedin.com/in/bigfito](https://mx.linkedin.com/in/bigfito)
 - 🐦 X: [@thebigfito](https://x.com/thebigfito)
-<!-- [PENDIENTE] Agregar 🌐 https://bigfito.cloud solo cuando el sitio ya mencione Elastic y el cargo actual (hoy dice "Cloud Program Manager, Google, January 2022 – Present"). -->
+- 🌐 Portfolio: [bigfito.cloud](https://bigfito.cloud)
