@@ -24,6 +24,7 @@ I build demos, proofs of concept and documented architectures around search, dat
 | [gotham-media-browser](https://github.com/bigfito/gotham-media-browser) | News and media browser prototype on Elastic Cloud Serverless and Google Cloud Storage, with semantic, hybrid and vector search. |
 | [elastiflix-java](https://github.com/bigfito/elastiflix-java) | Spring Boot movie search app that compares six Elasticsearch search strategies side by side: title, BM25, ELSER, E5, hybrid RRF and reranking. |
 | [il-giro-de-fito](https://github.com/bigfito/il-giro-de-fito) | Snowflake platform demo (fictional Tuscan restaurant): table and view types, Iceberg, streams and tasks, dynamic tables, RBAC and stored procedures. |
+| [aws-vpn-hub-reference](https://github.com/bigfito/aws-vpn-hub-reference) | Terraform reference architecture for an AWS Client VPN hub with split tunnel, Route 53 and IAM Roles Anywhere. |
 
 ## Tech I use
 
@@ -35,6 +36,8 @@ I build demos, proofs of concept and documented architectures around search, dat
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik02LjggMTB2LjdsLjMuNnYuNGwtLjYuNGgtLjRsLS4zLS40LS4zLS41YTMgMyAwIDAgMS0yLjMgMXEtMSAwLTEuNi0uNWEyIDIgMCAwIDEtLjYtMS41cTAtMSAuNy0xLjcuOC0uNiAyLS42bDEuNy4zdi0uNnEwLS45LS4zLTEuMy0uNC0uNC0xLjMtLjRsLS45LjEtLjkuMy0uMi4xaC0uMmwtLjEtLjJ2LS43bC4yLS4xIDEtLjRMNCA0LjhxMS40IDAgMiAuNy43LjUuNyAyem0tMy4zIDEuMmguOGwuOC0uNi4zLS41VjlsLS43LS4ySDRxLS45IDAtMS4yLjMtLjQuMy0uNCAxIDAgLjUuMy44dC44LjNtNi40IDEtLjMtLjItLjEtLjMtMi02LjF2LS40cTAtLjIuMi0uMmguOGwuMy4xLjIuMyAxLjMgNS4zIDEuMi01LjMuMi0uM0gxM2wuMS4zIDEuMyA1LjQgMS40LTUuNC4xLS4zSDE3bC4yLjF2LjRsLTIgNi4xcTAgLjMtLjIuM2wtLjMuMWgtMWwtLjEtLjQtMS4zLTUuMS0xLjIgNS4xcTAgLjMtLjIuM2wtLjMuMXptMTAuMy4xQTUgNSAwIDAgMSAxOCAxMmwtLjItLjNWMTFsLjEtLjJoLjRhNCA0IDAgMCAwIDEuOC40cS43IDAgMS4yLS4yYTEgMSAwIDAgMCAuNC0uOGwtLjItLjUtLjgtLjUtMS4yLS4zcS0uOS0uMy0xLjMtLjhhMiAyIDAgMCAxLS40LTEuMkwxOCA2bC42LS42LjgtLjQgMS42LS4xaC41bC44LjMuMi4yLjEuM1Y2cTAgLjItLjIuMmgtLjNsLTEuNS0uNC0xIC4ycS0uNC4zLS40Ljd0LjIuNnEuMi4zLjkuNGwxLjEuNHEuOS4zIDEuMi44LjQuNS40IDF0LS4yIDEtLjYuN3EtLjMuMy0uOS41em0xLjUgNEExNy42IDE3LjYgMCAwIDEgLjEgMTQuNnEtLjItLjYuMy0uNGEyNCAyNCAwIDAgMCAyMSAxLjNjLjQtLjIuNy4zLjMuNm0xLTEuM2MtLjItLjUtMi4xLS4yLTMtLjFxLS40IDAgMC0uNGMxLjUtMSA0LS44IDQuMi0uNHMwIDIuOC0xLjUgNHEtLjQuMi0uMy0uMWMuMy0uOCAxLTIuNi43LTMiLz48L3N2Zz4%3D&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
