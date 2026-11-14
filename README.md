@@ -1,29 +1,30 @@
-# Hi, I'm Adolfo Orozco 👋
+# Hi, I'm Adolfo Orozco
 
-**Senior Solutions Architect at [Elastic](https://github.com/elastic)** since February 2026, based in Mexico City.
+**Senior Solutions Architect · Mexico City · 20+ years across LATAM**
 
-I build demos, proofs of concept and documented architectures around search, data and the cloud.
+Search, data and cloud: explained to the C-suite, built for production. I help teams as a freelance consultant, from the first workshop to a working proof of concept.
 
-🇲🇽 *Hola, soy Adolfo: arquitecto de soluciones en Elastic. Preventa técnica, ingeniería de datos y arquitectura en la nube.*
+*Hola, soy Adolfo: arquitecto de soluciones en Ciudad de México. Preventa técnica, búsqueda, ingeniería de datos y cloud.*
 
-**Background:** Snowflake (Senior Partner Solutions Engineer), Datadog (Enterprise Sales Engineer), Google Cloud (Data Engineer, Cloud Program Manager, Infrastructure Cloud Consultant), Verizon (Sales Engineer), and Axway (Presales/Solutions Architect).
+**Background:** Senior Solutions Architect at Elastic (Feb–Oct 2026). Senior Partner Solutions Engineer at Snowflake (2025–2026). Enterprise Sales Engineer at Datadog. Data Engineer, Cloud Program Manager and Infrastructure Cloud Consultant at Google Cloud. Sales Engineer at Verizon. Presales / Solutions Architect at Axway.
 
 ## What I work on
 
-- 🎯 **Technical presales.** Demos, proofs of concept, and demo scripts with business questions, talking points and objection handling.
-- 🗄️ **Data engineering.** Data loading and indexing in Elasticsearch, plus Snowflake platform objects, cost analysis and Cortex AI.
-- ☁️ **Cloud solutions architecture.** Google Cloud integrations, observability and search architectures, documented with diagrams.
+- **Technical presales and solutions architecture.** Discovery, demos, proofs of concept, and demo scripts built around business questions.
+- **Search and AI with Elasticsearch.** Assessments and prototypes comparing BM25, k-NN and hybrid (RRF) search, with precision measured on test queries.
+- **Data engineering and analytics.** Pipelines and platform work on Google Cloud and Snowflake, including Cortex AI.
+- **Cloud program management.** Plans, risk tracking and delivery assurance across teams or vendors.
 
 ## Featured projects
 
 | Project | What it is |
 |---|---|
-| [elastiflix-reloaded](https://github.com/bigfito/elastiflix-reloaded) | Current Elastiflix movie search demo in Java 25 + Spring Boot 4: full-text (BM25), vector (k-NN) and hybrid (RRF) search on Elasticsearch Serverless, with a Spanish/English UI. |
-| [snowflake-intelligence](https://github.com/bigfito/snowflake-intelligence) | Snowflake Intelligence demo guide for a fictional pizzeria: Cortex Analyst, Cortex LLM functions, sales forecasting and anomaly detection. |
+| [elastiflix-reloaded](https://github.com/bigfito/elastiflix-reloaded) | Current Elastiflix movie search demo in Java 25 + Spring Boot 4.1: full-text (BM25), vector (k-NN) and hybrid (RRF) on Elasticsearch Serverless, with a Spanish/English UI. On 40 graded bilingual queries (measurement M4, 13 Nov 2026), 1024-d vector search puts the right movie first in 63% of queries and in the top 5 in 37 of 40, over 6,899 movies. |
+| [elastiflix-java](https://github.com/bigfito/elastiflix-java) | Earlier Spring Boot movie search app that compares six Elasticsearch modes side by side, including ELSER, E5, hybrid RRF and reranking. |
+| [gotham-media-browser](https://github.com/bigfito/gotham-media-browser) | News and media browser prototype on Elastic Cloud Serverless and Google Cloud Storage, with semantic, hybrid, vector and multimodal search. |
+| [snowflake-intelligence](https://github.com/bigfito/snowflake-intelligence) | Snowflake Intelligence demo script for a fictional pizzeria: Cortex Analyst, Cortex LLM functions, sales forecasting and anomaly detection. |
+| [il-giro-de-fito](https://github.com/bigfito/il-giro-de-fito) | Snowflake platform tour (fictional Tuscan restaurant): table and view types, Iceberg, streams and tasks, dynamic tables, RBAC and stored procedures. |
 | [datadog-gcp-integration](https://github.com/bigfito/datadog-gcp-integration) | Bash scripts that set up the Datadog integration with Google Cloud: required APIs, a dedicated observability project, and log forwarding through a log sink. |
-| [gotham-media-browser](https://github.com/bigfito/gotham-media-browser) | News and media browser prototype on Elastic Cloud Serverless and Google Cloud Storage, with semantic, hybrid and vector search. |
-| [elastiflix-java](https://github.com/bigfito/elastiflix-java) | Spring Boot movie search app that compares six Elasticsearch search strategies side by side: title, BM25, ELSER, E5, hybrid RRF and reranking. |
-| [il-giro-de-fito](https://github.com/bigfito/il-giro-de-fito) | Snowflake platform demo (fictional Tuscan restaurant): table and view types, Iceberg, streams and tasks, dynamic tables, RBAC and stored procedures. |
 | [aws-vpn-hub-reference](https://github.com/bigfito/aws-vpn-hub-reference) | Terraform reference architecture for an AWS Client VPN hub with split tunnel, Route 53 and IAM Roles Anywhere. |
 
 ## Tech I use
@@ -44,14 +45,15 @@ I build demos, proofs of concept and documented architectures around search, dat
 
 ## Certifications
 
-SnowPro Core, Data & Information Governance, and Google Cloud certifications: Cloud Digital Leader, Associate Cloud Engineer, Professional Cloud Architect, and Professional Cloud Developer.
+SnowPro Core, Data & Information Governance (ITAM), and Google Cloud: Cloud Digital Leader, Associate Cloud Engineer, Professional Cloud Architect, and Professional Cloud Developer.
 
 ## Languages
 
-English, Spanish, French, and Portuguese.
+I work in English and Spanish every day, and I get by professionally in French and Portuguese.
 
 ## Let's connect
 
-- 💼 LinkedIn: [linkedin.com/in/bigfito](https://mx.linkedin.com/in/bigfito)
-- 🐦 X: [@thebigfito](https://x.com/thebigfito)
-- 🌐 Portfolio: [bigfito.cloud](https://bigfito.cloud)
+- Portfolio: [bigfito.cloud](https://bigfito.cloud)
+- LinkedIn: [linkedin.com/in/bigfito](https://www.linkedin.com/in/bigfito/)
+- X: [@thebigfito](https://x.com/thebigfito)
+- GitHub: [github.com/bigfito](https://github.com/bigfito)
