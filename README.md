@@ -53,7 +53,7 @@ I work in English and Spanish every day, and I get by professionally in French a
 
 ## Let's connect
 
-- Portfolio: [bigfito.cloud](https://bigfito.cloud)
+- Portfolio: [cv.bigfito.cloud](https://cv.bigfito.cloud)
 - LinkedIn: [linkedin.com/in/bigfito](https://www.linkedin.com/in/bigfito/)
 - X: [@thebigfito](https://x.com/thebigfito)
 - GitHub: [github.com/bigfito](https://github.com/bigfito)
